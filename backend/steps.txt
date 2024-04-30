@@ -1,0 +1,8 @@
+1.create .env file 
+  -- declare all the configuration 
+
+2.to create database connection
+  a.create db.js file 
+  b.create function connectDB() call it in index.js 
+
+
